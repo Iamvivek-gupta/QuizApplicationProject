@@ -1,0 +1,11 @@
+{
+  "/participentsref/*":{
+        "target":"http://localhost:2000",
+        "secure":true
+    },
+    
+  "/questionsref/*":{
+    "target":"http://localhost:2000",
+    "secure":true
+}
+}
